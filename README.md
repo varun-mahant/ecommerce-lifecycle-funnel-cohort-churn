@@ -40,10 +40,10 @@ The dataset was synthetically generated using Python to simulate realistic e-com
 
 ### Dataset Scale
 
-- Users: 100,000
-- Sessions: 726,000
-- Events: 3,200,000
-- Transactions: 3,100
+- Users: 100K
+- Sessions: 726K
+- Events: 3.2M
+- Transactions: 3.1K
 
 ### Data Tables
 
