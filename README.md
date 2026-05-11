@@ -206,25 +206,25 @@ Recommended improvements:
 
 ### Funnel Analysis
 
-![Funnel Analysis](powerbi-dashboard/screenshots/funnel-analysis.png)
+![Funnel Analysis](powerbi-dashboard/screenshots/funnel-analysis.PNG)
 
 ---
 
 ### Cohort Analysis
 
-![Cohort Analysis](powerbi-dashboard/screenshots/cohort-analysis.png)
+![Cohort Analysis](powerbi-dashboard/screenshots/cohort-analysis.PNG)
 
 ---
 
 ### Churn Analysis
 
-![Churn Analysis](powerbi-dashboard/screenshots/churn-analysis.png)
+![Churn Analysis](powerbi-dashboard/screenshots/churn-analysis.PNG)
 
 ---
 
 ### Revenue Analysis
 
-![Revenue Analysis](powerbi-dashboard/screenshots/revenue-analysis.png)
+![Revenue Analysis](powerbi-dashboard/screenshots/revenue-analysis.PNG)
 
 ---
 
