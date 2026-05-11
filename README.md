@@ -54,15 +54,6 @@ The dataset was synthetically generated using Python to simulate realistic e-com
 
 ---
 
-## 📁 Repository Structure
-
-- data-generation/
-- sql-analysis/
-- data-model/
-- powerbi-dashboard/
-
----
-
 ## 🔍 Analysis Breakdown
 
 ### 1. Funnel Analysis
